@@ -1,7 +1,8 @@
 {
     "plugins": [
         "splitter",
-        "sectionx"
+        "sectionx",
+        "scripts"
     ],
     "pluginsConfig": {}
 }
