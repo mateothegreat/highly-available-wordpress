@@ -4,7 +4,8 @@
         "sectionx",
         "scripts",
         "restructure-navigation",
-        "outline"
+        "outline",
+        "multipart"
     ],
     "pluginsConfig": {}
 }
