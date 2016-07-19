@@ -8,4 +8,5 @@
 * [Container Engine](containers/the_container.md)
    * [Creating a Service](containers/create_the_service.md)
    * [Creating a "Pod"](containers/create_the_pod.md)
+   * Create a Cluster
 
