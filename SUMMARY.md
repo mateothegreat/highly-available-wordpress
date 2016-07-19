@@ -11,6 +11,6 @@
    * [Create the Pod](create_the_pod_&_service.md)
    * [Load Balancing](load_balancing.md)
    * [Create the Service](create_the_service.md)
-   * Setting up the Database
+   * [Setting up the Database](setting_up_the_database.md)
 * Resources
 
