@@ -2,7 +2,8 @@
     "plugins": [
         "splitter",
         "sectionx",
-        "scripts"
+        "scripts",
+        "restructure-navigation"
     ],
     "pluginsConfig": {}
 }
