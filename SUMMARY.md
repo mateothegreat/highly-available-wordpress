@@ -10,5 +10,6 @@
    * [Persistent Storage](persistent_storage.md)
    * [Create the Pod](create_the_pod_&_service.md)
    * [Load Balancing](load_balancing.md)
+   * Create the Service
 * Resources
 
