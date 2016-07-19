@@ -6,12 +6,13 @@ The wordpress.yaml file defines a pod with a single wordpress container, and mou
 We need to setup kubernetes:
 ```
 $ gcloud container clusters get-credentials wordpress-cluster-1 --zone us-central1-b
+
 Fetching cluster endpoint and auth data.
 kubeconfig entry generated for wordpress-cluster-1.
+
 lenixx@gowoo-1358:~$ kubectl create -f wordpress.yaml 
 pod "wordpress" created
 
-```
 ```
 apiVersion: v1
 kind: Pod
