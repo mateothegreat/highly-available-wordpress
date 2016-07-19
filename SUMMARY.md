@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Architecture](architecture/architecture.md)
+   * Databases
 * [Application Environments](applications/application_environments.md)
    * [Storage](storage/persistent_storage.md)
 * [Networking](networking/networking.md)
