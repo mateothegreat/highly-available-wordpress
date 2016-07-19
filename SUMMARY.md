@@ -5,7 +5,7 @@
 * [Architecture](architecture.md)
    * [Application Environments](application_environments.md)
 * [Implementation](implementation.md)
-   * [Setting up the Database](setting_up_the_database.md)
+   * [Cloud SQL Instances](setting_up_the_database.md)
    * [Persistent Storage](persistent_storage.md)
    * [The Container](the_container.md)
    * [Creating The Cluster](creating_the_cluster.md)
