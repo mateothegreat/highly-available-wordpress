@@ -12,7 +12,6 @@ spec:
         - name: WORDPRESS_DB_HOST
           value: 104.198.35.169
         - name: WORDPRESS_DB_USER
-  name: wordpress
           value: changeme
         - name: WORDPRESS_DB_NAME
           value: wordpress
