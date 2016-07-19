@@ -5,6 +5,8 @@
         "layout"
     ],
     "pluginsConfig": {
-    
+    "ga": {
+            "token": "UA-80987790-1"
+        }
     }
 }
