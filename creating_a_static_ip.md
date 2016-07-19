@@ -15,9 +15,11 @@ selfLink: https://www.googleapis.com/compute/v1/projects/my-test-load-balancing-
 status: RESERVED
 ```
 
-#### Open firewall for web traffic.
+## Firewall Rules
+
 By default we've locked down access from the outside world into our new network. We need to open up port 80 and 443 for web traffic. This will only apply to the loadbalancer -- we do not want to have the individual container instances themselves be publically accessible.
 
+#### HTTP & HTTPS
 ```
 $ gcloud compute --project "my-test-load-balancing-project" firewall-rules create "allow-http-to-loadbalancer" --allow tcp:80 --network "ne
 twork-1" --source-ranges "0.0.0.0/0"
@@ -33,5 +35,24 @@ network-1" --source-ranges "0.0.0.0/0"
 Created [https://www.googleapis.com/compute/v1/projects/my-test-load-balancing-project/global/firewalls/allow-https-to-loadbalancer].
 NAME                         NETWORK    SRC_RANGES  RULES    SRC_TAGS  TARGET_TAGS
 allow-https-to-loadbalancer  network-1  0.0.0.0/0   tcp:443
+```
+
+#### Monitoring Checks
+https://cloud.google.com/compute/docs/load-balancing/health-checks
+
+```
+$ gcloud compute --project "my-test-load-balancing-project" firewall-rules create "allow-http-healthcheck" --allow tcp:80 --network "networ
+k-1" --source-ranges "130.211.0.0/22"
+
+Created [https://www.googleapis.com/compute/v1/projects/my-test-load-balancing-project/global/firewalls/allow-http-healthcheck].
+NAME                    NETWORK    SRC_RANGES      RULES   SRC_TAGS  TARGET_TAGS
+allow-http-healthcheck  network-1  130.211.0.0/22  tcp:80
+
+$ gcloud compute --project "my-test-load-balancing-project" firewall-rules create "allow-https-healthcheck" --allow tcp:443 --network "netw
+ork-1" --source-ranges "130.211.0.0/22"
+
+Created [https://www.googleapis.com/compute/v1/projects/my-test-load-balancing-project/global/firewalls/allow-https-healthcheck].
+NAME                     NETWORK    SRC_RANGES      RULES    SRC_TAGS  TARGET_TAGS
+allow-https-healthcheck  network-1  130.211.0.0/22  tcp:443
 
 ```
