@@ -13,6 +13,6 @@
    * [Load Balancing](load_balancing.md)
    * [Create the Service](create_the_service.md)
    * [Networking](networking.md)
-   * Cleanup
+   * [Cleanup](cleanup.md)
 * Resources
 
