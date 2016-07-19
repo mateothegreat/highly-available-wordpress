@@ -1,12 +1,15 @@
 # Create a Container Engine cluster
+The first step is to create a Container Engine cluster. 
+These are virtual machines that are used specifically for hosting images.
 
-The first step is to create a Container Engine cluster on which you'll run your site. The following command creates a cluster with 2 nodes:
+![](https://lh3.googleusercontent.com/-SzTnM7-n2Ak/V43mW8OWnnI/AAAAAAAAAjo/TeKVbdoa3mg/s0/2016-07-19_03-35-35.png)
 
-```
-$ gcloud container clusters create wppd --num-nodes 2
-Creating cluster wppd...done.
-Created [https://container.googleapis.com/v1/projects/container-engine-docs/zones/us-central1-b/clusters/wppd].
-kubeconfig entry generated for wppd.
-NAME  ZONE           MASTER_VERSION  MASTER_IP  MACHINE_TYPE   NODE_VERSION  NUM_NODES  STATUS
-wppd  us-central1-b  1.2.0           x.x.x.x    n1-standard-1  1.2.0         2          RUNNING
-```
+## Create Options Step
+
+![](https://lh3.googleusercontent.com/-7Fb1-Ba0FiI/V43oSRASZhI/AAAAAAAAAj8/CAxVllPnUtA/s0/2016-07-19_03-43-49.png)
+
+***Note: It will take a few minutes for your cluster to be created.***
+
+If all goes as planned you will see your new cluster on your clusters page:
+
+![](https://goo.gl/jXD4Hs)
