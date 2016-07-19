@@ -4,17 +4,11 @@
         "sectionx",
         "scripts",
         "restructure-navigation",
-        "outline",
         "multipart",
         "layout",
         "ga",
-        "codetabs"
     ],
     "pluginsConfig": {
-    "layout": {
-            "headerPath" : "layouts/header.html",
-            "footerPath" : "layouts/footer.html"
-        }
     
     }
 }
