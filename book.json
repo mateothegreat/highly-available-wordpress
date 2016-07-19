@@ -2,8 +2,7 @@
     "plugins": [
         "splitter",
         "sectionx",
-        "layout",
-        "ga"
+        "layout"
     ],
     "pluginsConfig": {
     
