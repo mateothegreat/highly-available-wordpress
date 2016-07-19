@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](introduction.md)
-* Architecture
+* [Architecture](architecture.md)
 * [Implementation](implementation.md)
 * Resources
 
