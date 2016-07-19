@@ -6,7 +6,7 @@
    * [Storage](storage/persistent_storage.md)
 * [Networking](networking/networking.md)
    * [Creating a Static IP](networking/creating_a_static_ip.md)
-   * Load Balancing
+   * [Load Balancing](networking/load_balancing.md)
 * [Databases](databases/setting_up_the_database.md)
 * [Container Engine](containers/the_container.md)
    * [Creating a Cluster](containers/create_the_cluster.md)
