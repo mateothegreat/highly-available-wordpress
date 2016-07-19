@@ -14,5 +14,5 @@
    * [Create the Service](create_the_service.md)
    * [Networking](networking.md)
    * [Cleanup](cleanup.md)
-* Resources
+* [Resources](resources.md)
 
