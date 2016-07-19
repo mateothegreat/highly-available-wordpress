@@ -6,7 +6,8 @@
         "restructure-navigation",
         "outline",
         "multipart",
-        "layout"
+        "layout",
+        "ga"
     ],
     "pluginsConfig": {}
 }
