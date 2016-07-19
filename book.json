@@ -2,9 +2,6 @@
     "plugins": [
         "splitter",
         "sectionx",
-        "scripts",
-        "restructure-navigation",
-        "multipart",
         "layout",
         "ga",
     ],
