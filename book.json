@@ -3,7 +3,8 @@
         "splitter",
         "sectionx",
         "scripts",
-        "restructure-navigation"
+        "restructure-navigation",
+        "outline"
     ],
     "pluginsConfig": {}
 }
