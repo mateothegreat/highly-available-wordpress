@@ -1,1 +1,8 @@
 /* CSS for website */
+
+.book .book-body .navigation {
+  min-width: 4%;
+}
+.book .book-body .page-wrapper .page-inner {
+  max-width: 95%;
+}
