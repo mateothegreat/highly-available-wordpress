@@ -3,4 +3,5 @@
 * Introduction
 * Architecture
 * Implementation
+* Resources
 
