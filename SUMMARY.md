@@ -12,5 +12,6 @@
    * [Create the Pod](create_the_pod_&_service.md)
    * [Load Balancing](load_balancing.md)
    * [Create the Service](create_the_service.md)
+   * Networking
 * Resources
 
