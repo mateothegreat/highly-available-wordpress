@@ -3,8 +3,15 @@
 
 The wordpress.yaml file defines a pod with a single wordpress container, and mounts a volume on the container using the wordpress-disk persistent disk that you created earlier.
 
-Before using this file, you must change the env.value value to the same database password as used in mysql.yaml.
+We need to setup kubernetes:
+```
+$ gcloud container clusters get-credentials wordpress-cluster-1 --zone us-central1-b
+Fetching cluster endpoint and auth data.
+kubeconfig entry generated for wordpress-cluster-1.
+lenixx@gowoo-1358:~$ kubectl create -f wordpress.yaml 
+pod "wordpress" created
 
+```
 ```
 apiVersion: v1
 kind: Pod
