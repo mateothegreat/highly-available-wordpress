@@ -10,9 +10,12 @@ $ gcloud container clusters get-credentials wordpress-cluster-1 --zone us-centra
 Fetching cluster endpoint and auth data.
 kubeconfig entry generated for wordpress-cluster-1.
 
-lenixx@gowoo-1358:~$ kubectl create -f wordpress.yaml 
-pod "wordpress" created
+$ kubectl create -f https://raw.githubusercontent.com/mateothegreat/highly-available-wordpress/master/src/wordpress.yaml
 
+pod "wordpress" created
+```
+
+#### Example wordpress.yaml
 ```
 apiVersion: v1
 kind: Pod
