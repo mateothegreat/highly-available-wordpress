@@ -6,6 +6,6 @@
    * [Application Environments](application_environments.md)
 * [Implementation](implementation.md)
    * [Persistent Storage](persistent_storage.md)
-   * Load Balancing
+   * [Load Balancing](load_balancing.md)
 * Resources
 
