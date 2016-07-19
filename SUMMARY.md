@@ -13,6 +13,7 @@
    * [Load Balancing](load_balancing.md)
    * [Create the Service](create_the_service.md)
    * [Networking](networking.md)
+       * Creating a Static IP
    * [Cleanup](cleanup.md)
 * [Resources](resources.md)
 
