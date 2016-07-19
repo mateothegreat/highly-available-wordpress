@@ -9,6 +9,6 @@
    * [Creating The Cluster](creating_the_cluster.md)
    * [Persistent Storage](persistent_storage.md)
    * [Load Balancing](load_balancing.md)
-   * Create the Pod & Service
+   * [Create the Pod & Service](create_the_pod_&_service.md)
 * Resources
 
