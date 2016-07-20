@@ -1,7 +1,12 @@
-{% include "../includes/header.md" %}
 
 ![](../images/gcp-container-engine.png)
 
+{% include "../includes/header.md" %}
+
+
+<div style="width: 300px; height: 50px; display: block; float: left;">
+asdf
+</div>
 We'll use the official [WordPress](https://registry.hub.docker.com/_/wordpress/) Docker image for this installation. 
 The WordPress docker image includes an Apache server. You can use any docker container you want however.
 
