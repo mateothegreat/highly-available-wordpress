@@ -1,9 +1,10 @@
 
 ![](../images/gcp-container-engine.png)
-{% include "../includes/header.md" %}
 
-<img src="../images/gcp-compute-engine-clusters.png" style=" float: left; margin: 20px;"> We'll use the official [WordPress](https://registry.hub.docker.com/_/wordpress/) Docker image for this installation. 
-The WordPress docker image includes an Apache server. You can use any docker container you want however.
+---
+<img src="../images/docker-kubernetes2.png" style=" float: right; margin: 20px;"> Google Container Engine is a powerful cluster manager and orchestration system for running your Docker containers. Container Engine schedules your containers into the cluster and manages them automatically based on requirements you define (such as CPU and memory). It's built on the open source Kubernetes system, giving you the flexibility to take advantage of on-premises, hybrid, or public cloud infrastructure.
+
+We'll use the official [WordPress](https://registry.hub.docker.com/_/wordpress/) Docker image for this installation. The WordPress docker image includes an Apache server. You can use any docker container you want however.
 
 ### Before you begin
 
