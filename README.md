@@ -1,4 +1,5 @@
-{% include "./includes/header.md" %}
+
+---
 
 ## Introduction
 
