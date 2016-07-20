@@ -1,3 +1,3 @@
-![](../images/gcp-platformlogo.png)
+![](../content/images/gcp-platformlogo.png)
 
 ---
