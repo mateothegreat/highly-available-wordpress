@@ -1,4 +1,6 @@
-# Introduction
+{% include "./includes/header.md" %}
+
+## Introduction
 Using the Google Cloud Platform to deploy a load balanced, fault tolerant, container solution.
 
 ---
