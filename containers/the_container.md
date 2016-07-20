@@ -1,4 +1,4 @@
-# Docker Containers
+# Google's Container Engine
 ![](../images/Docker-on-Google-Cloud-App-Developer-Magazine_zwp3wqz6.jpg)
 
 We'll use the official [WordPress](https://registry.hub.docker.com/_/wordpress/) Docker image for this installation. 
