@@ -1,6 +1,5 @@
-![](../images/gcp-platformlogo.png)
+{% include "./includes/header.md" %}
 
----
 
 ![](../images/gcp-networking-externalip.png)
 ## Creating a Static IP
