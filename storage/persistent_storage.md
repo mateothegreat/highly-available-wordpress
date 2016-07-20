@@ -1,6 +1,8 @@
 ![](../images/gcp-compute-engine.png)
 
 ---
+
+# Storage
 Every Compute Engine VM instance is attached to at least one disk as a boot disk and for persistent storage. A persistent disk can be a standard (HDD) or a solid-state (SSD) drive. You can also attach an ephemeral local SSD for high-performance I/O. [Learn more](https://cloud.google.com/compute/docs/disks/?hl=en_US&_ga=1.7348087.47948599.1468921224)
 
 ## Setting up Persistent Storage
