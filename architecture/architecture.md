@@ -3,7 +3,7 @@
 # Scalable Architecture
 Basic Components:
 
-* [Load Balancing](/networking/load_balancing.html)
+* [Load Balancing](networking/load_balancing.md)
 * Application Environment
 * Persistent Storage
 * Database Server
