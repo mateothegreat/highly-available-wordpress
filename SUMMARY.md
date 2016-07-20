@@ -13,6 +13,6 @@
    * [Creating a Service](containers/create_the_service.md)
    * [Creating a "Pod"](containers/create_the_pod.md)
 * [Reference Architectures](references/reference_architectures.md)
-   * Scalable WordPress 
+   * [Scalable WordPress](references/scalable_wordpress.md)
 * [Cleanup](cleanup/cleanup.md)
 
