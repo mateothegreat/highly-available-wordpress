@@ -1,4 +1,6 @@
-# Architecture
+{% include "./includes/header.md" %}
+
+## Architecture
 ![](../images/gae-scalable-arch.png)
 ### Basic components:
 
