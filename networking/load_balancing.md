@@ -1,6 +1,5 @@
-![](../images/gcp-platformlogo.png)
+{% include "./includes/header.md" %}
 
----
 ![](../images/gcp-networking-loadbalancing.png)
 
 ![](../images/network_load_balancing.png)
