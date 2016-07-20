@@ -1,5 +1,4 @@
-# Networking
-
+![](../images/gcp-networking.png)
 
 asdf
 
