@@ -1,4 +1,4 @@
-<div style="width: 300px; float: left;">
+<div style="width: 100px; float: left;">
 asdf
 </div>
 
