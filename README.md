@@ -1,4 +1,4 @@
-![](images/gcp-sm.png)
+![](images/chrome_2016-07-19_22-54-12.png)
 
 ---
 
