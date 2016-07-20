@@ -6,19 +6,23 @@
 
 [](https://cloud.google.com/container-engine/)We'll use the official [WordPress](https://registry.hub.docker.com/_/wordpress/) Docker image for this installation. The WordPress docker image includes an Apache server. You can use any docker container you want however.
 
-### Before you begin
+#### Before you begin
 
 [Follow the directions](https://cloud.google.com/container-engine/docs/before-you-begin) to:
 
-* Enable the API.
+* Enable the API in Cloud Console.
 * Install the `gcloud` and `kubectl` command line interfaces.
 * Set your default project and Compute Engine zone.
 
-We will be editing the following configuration files:
+#### Setup Templates
+We will be using the template files below to set things up. Notice that there are some variables that need to be updated with your information.
 
-* `wordpress.yaml`: The WordPress pod configuration file.
-* `wordpress-service.yaml`: The WordPress service configuration file.
+Templates:
+* `wordpress.yaml`: The WordPress **pod** configuration file. [[Download](https://github.com/mateothegreat/highly-available-wordpress/blob/master/src/wordpress.yaml)]
+* `wordpress-service.yaml`: The WordPress **service** configuration file. [[Download](https://github.com/mateothegreat/highly-available-wordpress/blob/master/src/wordpress-service.yaml)]
 
+#### Creating Resources
+You can apply your templates with the gcloud console to deploy your resources:
 ```
 gcloud container --project "my-test-load-balancing-project" clusters create "cluster-1" --zone "us-central1-a" \
   --machine-type "n1-standard-1" \
