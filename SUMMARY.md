@@ -12,6 +12,6 @@
    * [Creating a Cluster](containers/create_the_cluster.md)
    * [Creating a Service](containers/create_the_service.md)
    * [Creating a "Pod"](containers/create_the_pod.md)
-* Reference Architectures
+* [Reference Architectures](references/reference_architectures.md)
 * [Cleanup](cleanup/cleanup.md)
 
