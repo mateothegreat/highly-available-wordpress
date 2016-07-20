@@ -1,10 +1,10 @@
 
-![](../images/gcp-container-engine.png)
+[](https://cloud.google.com/container-engine/)![](../images/gcp-container-engine.png)
 
 ---
-<img src="../images/docker-kubernetes2.png" style=" float: right; margin: 20px;"> Google Container Engine is a powerful cluster manager and orchestration system for running your Docker containers. Container Engine schedules your containers into the cluster and manages them automatically based on requirements you define (such as CPU and memory). It's built on the open source Kubernetes system, giving you the flexibility to take advantage of on-premises, hybrid, or public cloud infrastructure.
+<img src="../images/docker-kubernetes2.png" style=" float: right; margin: 20px;"> [Google Container Engine](https://cloud.google.com/container-engine/) is a powerful cluster manager and orchestration system for running your Docker containers. Container Engine schedules your containers into the cluster and manages them automatically based on requirements you define (such as CPU and memory). It's built on the open source [Kubernetes](http://kubernetes.io/) system, giving you the flexibility to take advantage of on-premises, hybrid, or public cloud infrastructure.
 
-We'll use the official [WordPress](https://registry.hub.docker.com/_/wordpress/) Docker image for this installation. The WordPress docker image includes an Apache server. You can use any docker container you want however.
+[](https://cloud.google.com/container-engine/)We'll use the official [WordPress](https://registry.hub.docker.com/_/wordpress/) Docker image for this installation. The WordPress docker image includes an Apache server. You can use any docker container you want however.
 
 ### Before you begin
 
