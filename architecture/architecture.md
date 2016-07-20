@@ -1,6 +1,12 @@
 {% include "../includes/header.md" %}
 
-# Scalable Architecture 
+# Scalable Architecture
+Basic Components:
+
+* [Load Balancing](/networking/load_balancing.html)
+* Application Environment
+* Persistent Storage
+* Database Server
 
 <div style="text-align: center;;">
 <hr>
@@ -19,10 +25,5 @@
 
 ---
 
-### Basic components:
 
-* [Load Balancing](/networking/load_balancing.html)
-* Application Environment
-* Persistent Storage
-* Database Server
 
