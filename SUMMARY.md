@@ -1,7 +1,8 @@
-## Table of Contents
+# Summary
 
 * [Introduction](README.md)
 * [Architecture](architecture/architecture.md)
+* [Storage](storage/persistent_storage.md)
 * [Application Environments](applications/application_environments.md)
    * [Storage](storage/persistent_storage.md)
 * [Networking](networking/networking.md)
