@@ -1,4 +1,6 @@
+![](../images/gcp-platformlogo.png)
 
+---
 ## Setting up the Database
 
 ![](https://goo.gl/fYGZF7)
