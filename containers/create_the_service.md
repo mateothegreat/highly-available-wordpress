@@ -1,6 +1,6 @@
 {% include "./includes/header.md" %}
 
-![](../images/gcp-compute-engine-clusters.png)
+![](../images/gcp-container-engine.png)
 ## Create the Service
 
 ```
