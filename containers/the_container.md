@@ -1,7 +1,8 @@
-# The Container
+# Docker Containers
+![](../images/Docker-on-Google-Cloud-App-Developer-Magazine_zwp3wqz6.jpg)
 
 We'll use the official [WordPress](https://registry.hub.docker.com/_/wordpress/) Docker image for this installation. 
-The WordPress docker image includes an Apache server.
+The WordPress docker image includes an Apache server. You can use any docker container you want however.
 
 ### Before you begin
 
