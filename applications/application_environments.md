@@ -1,3 +1,5 @@
+{% include "./includes/header.md" %}
+
 # Application Environments
 
 There are a handful (and growing) choices you have to pick from when it comes to the application environment. Picking the right one is a combination of compatibility & the costs.
