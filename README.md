@@ -1,5 +1,13 @@
 # Introduction
-![](clustering-jenkins-with-kubernetes-blog-pic2.png)
+Using the Google Cloud Platform to deploy a load balanced, fault tolerant, container solution.
+
+---
+
+![](images/gcp-header-logo.png)
+
+---
+
+
 {% include "./SUMMARY.md" %}
 
 
