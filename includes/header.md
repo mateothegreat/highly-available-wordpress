@@ -1,10 +1,14 @@
-<div style="width: 100px; height: 50px; display: block; float: left;">
-asdf
-</div>
+<div style="height: 100px;">
 
-<div style="width: 100px; height: 50px; display: block; float: left">
+  <div style="width: 300px; height: 50px; display: block; float: left;">
+  asdf
+  </div>
 
-  <img src="../images/gcp-sm.png">
+  <div style="width: 100px; height: 50px; float: right">
+
+    <img src="../images/gcp-sm.png">
+
+  </div>
   
 </div>
 
