@@ -1,5 +1,5 @@
 # Architecture
-
+![](../images/gae-scalable-arch.png)
 ### Basic components:
 
 * Load Balancing
