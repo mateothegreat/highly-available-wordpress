@@ -1,4 +1,4 @@
-{% include "./includes/header.md" %}
+{% include "../includes/header.md" %}
 
 ![](../images/gcp-container-engine.png)
 ## Create the WordPress pod
