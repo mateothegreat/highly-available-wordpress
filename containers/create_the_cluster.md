@@ -1,6 +1,7 @@
 {% include "./includes/header.md" %}
 
-![](../images/gcp-compute-engine-clusters.png)
+![](../images/gcp-container-engine.png)
+
 ## Create a Container Engine cluster
 The first step is to create a Container Engine cluster. 
 These are virtual machines that are used specifically for hosting images.
