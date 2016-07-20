@@ -16,6 +16,16 @@ wordpress-disk-1  us-central1-a  200      pd-standard  READY
 
 
 ### Using the web console:
-You will need to change sections and go to the Compute Engine -> Disks section:
+You will need to change sections and go to the [Compute Engine -> Disks](https://console.cloud.google.com/compute/disksAdd) section. I've highlighted the fields that we need to update or double check:
 
-![](https://goo.gl/2c7SAB)
+<div style="text-align: center; background: #e1e1e1; padding: 50px;">
+
+<img src="../images/chrome_2016-07-19_21-52-42.png" style="-webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset; padding: 0px; border:2px solid#c0c0c0">
+
+<br>
+<a  href="https://console.cloud.google.com/compute/disksAdd">https://console.cloud.google.com/compute/disksAdd</a>
+
+</div>
+
