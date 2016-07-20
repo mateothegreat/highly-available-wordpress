@@ -1,4 +1,6 @@
-# Create a Container Engine cluster
+{% include "./includes/header.md" %}
+
+## Create a Container Engine cluster
 The first step is to create a Container Engine cluster. 
 These are virtual machines that are used specifically for hosting images.
 
