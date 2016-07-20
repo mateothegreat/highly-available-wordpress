@@ -1,4 +1,4 @@
-# Summary
+## Table of Contents
 
 * [Introduction](README.md)
 * [Architecture](architecture/architecture.md)
