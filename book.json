@@ -1,7 +1,6 @@
 {
     "plugins": [
         "splitter",
-        "sectionx",
         "layout"
     ],
     "pluginsConfig": {
