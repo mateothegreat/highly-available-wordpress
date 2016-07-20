@@ -1,4 +1,4 @@
-![](images/gcp-logo.png)
+![](images/gcp-sm.png)
 
 ---
 
