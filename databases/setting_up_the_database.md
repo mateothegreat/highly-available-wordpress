@@ -1,6 +1,5 @@
-![](../images/gcp-platformlogo.png)
+{% include "./includes/header.md" %}
 
----
 ## Setting up the Database
 
 ![](https://goo.gl/fYGZF7)
