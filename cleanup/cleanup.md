@@ -1,4 +1,6 @@
-# Cleanup
+{% include "./includes/header.md" %}
+
+## Cleanup
 
 
 #### Delete the services
