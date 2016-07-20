@@ -1,10 +1,11 @@
 {
     "plugins": [
         "splitter",
-        "layout"
+        "layout",
+        "exercises"
     ],
     "pluginsConfig": {
-    "ga": {
+        "ga": {
             "token": "UA-80987790-1"
         }
     }
