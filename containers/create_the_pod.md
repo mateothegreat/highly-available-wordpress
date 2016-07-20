@@ -1,4 +1,7 @@
-# Create the WordPress pod
+{% include "./includes/header.md" %}
+
+![](../images/gcp-container-engine.png)
+## Create the WordPress pod
 
 
 The wordpress.yaml file defines a pod with a single wordpress container, and mounts a volume on the container using the wordpress-disk persistent disk that you created earlier.
