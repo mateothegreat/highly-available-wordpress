@@ -1,4 +1,9 @@
-# Creating a Static IP
+![](../images/gcp-platformlogo.png)
+
+---
+
+![](../images/gcp-networking-externalip.png)
+## Creating a Static IP
 
 
 ```
