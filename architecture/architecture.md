@@ -1,8 +1,12 @@
-![](../images/gcp-logo.png)
+![](../images/chrome_2016-07-19_22-54-12.png)
 
 ---
 # A Simple, Scalable, Cloud Architecture
+
+![](../images/gcp-logo.png)
+
 Basic Components:
+
 
 * [Application Environments](applications/application_environments.md)
 * [Persistent Storage](storage/persistent_storage.md)
