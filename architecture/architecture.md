@@ -21,7 +21,7 @@
 
 ### Basic components:
 
-* [Load Balancing](networking/load_balancing.html)
+* [Load Balancing](/networking/load_balancing.html)
 * Application Environment
 * Persistent Storage
 * Database Server
