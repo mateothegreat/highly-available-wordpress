@@ -1,4 +1,6 @@
-# Persistent Storage
+{% include "./includes/header.md" %}
+
+## Persistent Storage
 
 This example makes use of [persistent disks](https://cloud.google.com/compute/docs/disks/), allowing the application to preserve its state across pod shutdown and start-up.
 
