@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Architecture](architecture/architecture.md)
+* Getting Started
 * [Storage](storage/persistent_storage.md)
 * [Application Environments](applications/application_environments.md)
 * [Networking](networking/networking.md)
@@ -16,5 +17,4 @@
    * [Scalable WordPress](references/scalable_wordpress.md)
    * [Deployment Manager Templates](references/deployment-manager-templates.md)
 * [Cleanup](cleanup/cleanup.md)
-* Getting Started
 
