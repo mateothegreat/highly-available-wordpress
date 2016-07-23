@@ -1,19 +1,20 @@
 # Getting Started
 
-Set the default project:
+#### Set the default project:
 ```sh
 gcloud config set project my-test-load-balancing-project```
 
-Set the default zone:
+#### Set the default zone:
 ```sh
 gcloud config set compute/zone asia-east1-a 
 ```
 
-Set the default container cluster:
+#### Set the default container cluster:
 ```sh
 gcloud config set container/cluster cluster-1
 ```
 
+#### Checking out the load balancer:
 ```sh
 [root@instance-1 ha-service]# gcloud compute forwarding-rules describe test-lb-fr --region asia-east1                                                                  
 IPAddress: 104.155.231.234
