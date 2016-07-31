@@ -6,7 +6,7 @@ metadata:
     name: wordpress
 spec:
   containers:
-    - image: wordpress
+    - image: oskarhane/docker-wordpress-nginx-ssh
       name: wordpress
       env:
         - name: WORDPRESS_DB_HOST
